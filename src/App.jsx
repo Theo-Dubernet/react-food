@@ -1,6 +1,5 @@
 import Plat from "./components/Plat";
 import ListIngredient from './components/Ingredient'
-ingredient
 
 function App() {
   return (
