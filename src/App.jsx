@@ -1,11 +1,11 @@
-function App() {
-  const [count, setCount] = useState(0)
+import Plat from "./components/Plat";
 
+function App() {
   return (
     <>
-      
+      <Plat />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
